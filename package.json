@@ -1,6 +1,7 @@
 {
   "name": "media",
   "private": true,
+  "homepage": "https://20lmedia.github.io/summa-/"
   "version": "0.0.0",
   "type": "module",
   "scripts": {
